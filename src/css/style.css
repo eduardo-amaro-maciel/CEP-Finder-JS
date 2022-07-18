@@ -11,7 +11,7 @@ body {
     background-position: bottom;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url('/assets/img/pexels-belle-co-783682.jpg');
+    background-image: url('../../assets/img/pexels-belle-co-783682.jpg');
 }
 
 form {
